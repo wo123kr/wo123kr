@@ -35,6 +35,7 @@
 | **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 — Claude API로 법안 해석·정치인 DNA 분석·토론 모더레이터 | FastAPI · Expo · Supabase |
 | **thinkingai-portal** | ThinkingData 사내 효율화 포털 — CSM Health Check · 이벤트 택소노미 생성기 · Skill Creator | Next.js · Node.js · pgvector |
 | **replymind** | B2B AI Customer Success Co-pilot — Reactive 응답 초안 + Proactive 분석/액션 제안 | Turbo · Next.js · Prisma |
+| **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 — Big Five 6차원 분석 + 12 아키타입 + 콘텐츠 생성 | Next.js · Expo · Prisma |
 
 > 코드 열람이 필요하면 편하게 연락 주세요. 채용 담당자에게는 collaborator 초대로 공유합니다.
 
