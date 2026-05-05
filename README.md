@@ -21,8 +21,8 @@
 > *"AI Agent가 이렇게 핫한데, 실제로 직접 활용해서 가치를 만들어내는 사람은 5–10%일 뿐.<br/>
 > 나머지 90%가 AI의 가치를 느끼게 하려면 누군가 다리가 되어야 합니다."*
 
-ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 분석가로 시작했고, 회사가 제 직무를 대체하는 AI 에이전트를 만든 순간 — 두려워하는 대신 **질문을 바꿨습니다.
-**
+ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 분석가로 시작했고, 회사가 제 직무를 대체하는 AI 에이전트를 만든 순간 — 두려워하는 대신 **질문을 바꿨습니다.**
+
 > *"AI를 직접 쓰기 어려운 90%의 사용자가 AI의 가치를 느끼게 만드는 다리가 되면 어떨까?"*
 
 그 답을 찾는 과정에서 만든 것들 ↓
@@ -34,7 +34,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 | 📚 **AI 가이드 포털** | 4개국어 지원 · 문서 기반 RAG 챗봇 · 학습 코스 | 24시간 셀프 서비스 |
 | 🔌 **MCP 서버 3개 / 18 도구** | td-docs · td-taxonomy · td-analytics → Claude · Cursor · Windsurf 연동 | 분석 컨설턴트 AI |
 
-> 결국, 분석가의 일은 사라지는 게 아니라 "AI가 일하는 방식을 만드는 일"로 진화한다고 믿습니다.
+> 결국, 분석가의 일은 사라지는 게 아니라 **"AI가 일하는 방식을 만드는 일"**로 진화한다고 믿습니다.
 
 ---
 
@@ -65,11 +65,13 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 
 ## 🚀 Featured Public Projects
 
-<a href="https://github.com/wo123kr/te_gtm_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wo123kr&repo=te_gtm_template&theme=default&hide_border=true"/></a>
-<a href="https://github.com/wo123kr/td-gtm-sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wo123kr&repo=td-gtm-sdk&theme=default&hide_border=true"/></a>
-<a href="https://github.com/wo123kr/Vibe-Coding-Prompt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wo123kr&repo=Vibe-Coding-Prompt&theme=default&hide_border=true"/></a>
-<a href="https://github.com/wo123kr/WorkSync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wo123kr&repo=WorkSync&theme=default&hide_border=true"/></a>
-<a href="https://github.com/wo123kr/td-gtm-test-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wo123kr&repo=td-gtm-test-page&theme=default&hide_border=true"/></a>
+| Project | What | Stack |
+|---|---|---|
+| ⭐ [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | All-in-One GTM custom template — SDK 초기화 + 모든 이벤트 추적 + 유저 관리를 하나의 템플릿으로 | GTM · Sandboxed JS |
+| 🔌 [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) | ThinkingEngine 웹 JS SDK의 jsDelivr CDN 미러 — TDAnalytics · TDCore · TDRemoteConfig · TDStrategy 4모듈 | GTM · jsDelivr |
+| 🧪 [**td-gtm-test-page**](https://github.com/wo123kr/td-gtm-test-page) | GTM 템플릿을 실제 페이지에서 E2E 검증하는 공개 테스트 페이지 — 고객 배포 전 동작 확인 | HTML · GTM |
+| ⭐⭐ [**Vibe-Coding-Prompt**](https://github.com/wo123kr/Vibe-Coding-Prompt) | "SYNERGY" — Blueprint & Build 2단계 페르소나로 LLM을 AI 협업 개발자로 변신시키는 프롬프트 | LLM · Prompt Engineering |
+| 🌍 [**WorkSync**](https://github.com/wo123kr/WorkSync) | Trae 해커톤 — 시차 다른 글로벌 팀의 Golden Hour를 자동 감지하는 협업 도구 (4개국어) | Next.js 14 · Tailwind · Shadcn |
 
 ---
 
@@ -117,15 +119,6 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 - **3편** — *AI 시대에 대체되지 않는 것: 책임 · 관계 · 90%를 위한 다리*
 
 전문은 [LinkedIn](https://www.linkedin.com/in/datacode91/)에서 확인하실 수 있습니다.
-
----
-
-## 📈 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wo123kr&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wo123kr&layout=compact&theme=default&hide_border=true&langs_count=8" height="160"/>
-</p>
 
 ---
 
