@@ -34,7 +34,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 | 📚 **AI 가이드 포털** | 4개국어 지원 · 문서 기반 RAG 챗봇 · 학습 코스 | 24시간 셀프 서비스 |
 | 🔌 **MCP 서버 3개 / 18 도구** | td-docs · td-taxonomy · td-analytics → Claude · Cursor · Windsurf 연동 | 분석 컨설턴트 AI |
 
-> 결국, 분석가의 일은 사라지는 게 아니라 **"AI가 일하는 방식을 만드는 일"**로 진화한다고 믿습니다.
+> 결국, 분석가의 일은 사라지는 게 아니라 "AI가 일하는 방식을 만드는 일"로 진화한다고 믿습니다.
 
 ---
 
