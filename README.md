@@ -34,7 +34,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 | 📚 **AI 가이드 포털** | 4개국어 지원 · 문서 기반 RAG 챗봇 · 학습 코스 | 24시간 셀프 서비스 |
 | 🔌 **MCP 서버 3개 / 18 도구** | td-docs · td-taxonomy · td-analytics → Claude · Cursor · Windsurf 연동 | 분석 컨설턴트 AI |
 
-> 결국, 분석가의 일은 사라지는 게 아니라 **"AI가 일하는 방식을 만드는 일"**로 진화한다고 믿습니다.
+> 결국, 분석가의 일은 사라지는 게 아니라 <b>"AI가 일하는 방식을 만드는 일"</b>로 진화한다고 믿습니다.
 
 ---
 
@@ -69,7 +69,6 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 |---|---|---|
 | ⭐ [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | All-in-One GTM custom template — SDK 초기화 + 모든 이벤트 추적 + 유저 관리를 하나의 템플릿으로 | GTM · Sandboxed JS |
 | 🔌 [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) | ThinkingEngine 웹 JS SDK의 jsDelivr CDN 미러 — TDAnalytics · TDCore · TDRemoteConfig · TDStrategy 4모듈 | GTM · jsDelivr |
-| 🧪 [**td-gtm-test-page**](https://github.com/wo123kr/td-gtm-test-page) | GTM 템플릿을 실제 페이지에서 E2E 검증하는 공개 테스트 페이지 — 고객 배포 전 동작 확인 | HTML · GTM |
 | ⭐⭐ [**Vibe-Coding-Prompt**](https://github.com/wo123kr/Vibe-Coding-Prompt) | "SYNERGY" — Blueprint & Build 2단계 페르소나로 LLM을 AI 협업 개발자로 변신시키는 프롬프트 | LLM · Prompt Engineering |
 | 🌍 [**WorkSync**](https://github.com/wo123kr/WorkSync) | Trae 해커톤 — 시차 다른 글로벌 팀의 Golden Hour를 자동 감지하는 협업 도구 (4개국어) | Next.js 14 · Tailwind · Shadcn |
 
