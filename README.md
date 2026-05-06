@@ -69,6 +69,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 |---|---|---|
 | ⭐ [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | All-in-One GTM custom template — SDK 초기화 + 모든 이벤트 추적 + 유저 관리를 하나의 템플릿으로 | GTM · Sandboxed JS |
 | 🔌 [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) | ThinkingEngine 웹 JS SDK의 jsDelivr CDN 미러 — TDAnalytics · TDCore · TDRemoteConfig · TDStrategy 4모듈 | GTM · jsDelivr |
+| 🛒 [**cafe24-te-connector**](https://github.com/wo123kr/cafe24-te-connector) | Cafe24 → ThinkingEngine 서버사이드 데이터 커넥터 — Webhook + Polling 멀티테넌트 / Redis·Kafka 큐 / LogBus2 / React Admin Console | FastAPI · React · Docker |
 | ⭐⭐ [**Vibe-Coding-Prompt**](https://github.com/wo123kr/Vibe-Coding-Prompt) | "SYNERGY" — Blueprint & Build 2단계 페르소나로 LLM을 AI 협업 개발자로 변신시키는 프롬프트 | LLM · Prompt Engineering |
 | 🌍 [**WorkSync**](https://github.com/wo123kr/WorkSync) | Trae 해커톤 — 시차 다른 글로벌 팀의 Golden Hour를 자동 감지하는 협업 도구 (4개국어) | Next.js 14 · Tailwind · Shadcn |
 
