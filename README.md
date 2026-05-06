@@ -69,7 +69,6 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 |---|---|---|
 | ⭐ [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | All-in-One GTM custom template — SDK 초기화 + 모든 이벤트 추적 + 유저 관리를 하나의 템플릿으로 | GTM · Sandboxed JS |
 | 🔌 [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) | ThinkingEngine 웹 JS SDK의 jsDelivr CDN 미러 — TDAnalytics · TDCore · TDRemoteConfig · TDStrategy 4모듈 | GTM · jsDelivr |
-| 🛒 [**cafe24-te-connector**](https://github.com/wo123kr/cafe24-te-connector) | Cafe24 → ThinkingEngine 서버사이드 데이터 커넥터 — Webhook + Polling 멀티테넌트 / Redis·Kafka 큐 / LogBus2 / React Admin Console | FastAPI · React · Docker |
 | ⭐⭐ [**Vibe-Coding-Prompt**](https://github.com/wo123kr/Vibe-Coding-Prompt) | "SYNERGY" — Blueprint & Build 2단계 페르소나로 LLM을 AI 협업 개발자로 변신시키는 프롬프트 | LLM · Prompt Engineering |
 | 🌍 [**WorkSync**](https://github.com/wo123kr/WorkSync) | Trae 해커톤 — 시차 다른 글로벌 팀의 Golden Hour를 자동 감지하는 협업 도구 (4개국어) | Next.js 14 · Tailwind · Shadcn |
 
@@ -131,6 +130,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 | **thinkingai-portal** | ThinkingAI 사내 효율화 포털 — CSM Health Check · 이벤트 택소노미 생성기 · Skill Creator | Next.js · Node.js · pgvector |
 | **replymind** | B2B AI Customer Success Co-pilot — Reactive 응답 + Proactive 분석/액션 제안 | Turbo · Next.js · Prisma |
 | **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 — Big Five 6차원 + 12 아키타입 + 콘텐츠 생성 | Next.js · Expo · Prisma |
+| **cafe24-te-connector** | Cafe24 → ThinkingEngine 서버사이드 데이터 커넥터 — Webhook + Polling 멀티테넌트 / Redis·Kafka 큐 / LogBus2 / React Admin Console | FastAPI · React · Docker |
 
 > 코드 열람이 필요하면 [LinkedIn](https://www.linkedin.com/in/datacode91/)으로 메시지 주세요. 채용 담당자분께는 collaborator로 초대해 드립니다.
 
