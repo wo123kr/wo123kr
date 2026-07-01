@@ -109,13 +109,9 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 
 ---
 
-## 📖 Writing — *Data Analyst → AI Solution Engineer* 시리즈
+## 📖 Writing
 
-분석가가 AI 시대에 살아남는 방법을 3부작으로 연재했습니다.
-
-- **1편** — *우리 회사가 내 직무를 대체하는 AI를 만들었다*
-- **2편** — *데이터 분석가가 AI와 함께 만든 것들* (택소노미 설계기 · 데모 데이터 생성기 · MCP 18 도구)
-- **3편** — *AI 시대에 대체되지 않는 것: 책임 · 관계 · 90%를 위한 다리*
+LinkedIn에 **데이터 분석과 AI 활용**을 주제로 글을 씁니다. 분석가로서 AI 시대를 지나며 겪은 직무 변화, 실무에서 만든 도구들, 그 안에서 사람이 하는 일에 대해 기록합니다.
 
 전문은 [LinkedIn](https://www.linkedin.com/in/datacode91/)에서 확인하실 수 있습니다.
 
