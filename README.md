@@ -54,8 +54,8 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 | | Project | One-liner |
 |---|---|---|
 | 🏛 | **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 |
-| 💼 | **thinkingai-portal** | CSM Health Check · 택소노미 자동 생성 사내 포털 |
-| 💬 | **replymind** | B2B AI Customer Success Co-pilot |
+| 💼 | **thinkingai-portal** | CSM 헬스 인텔리전스 + **replymind를 통합한 AI 에이전트 플랫폼** |
+| 💬 | **replymind** | B2B AI Customer Success Co-pilot (→ 포털 AE Agent로 통합 중) |
 | 🧬 | **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 |
 | 🔌 | **td-mcp** | ThinkingData MCP 서버 npm 4-package 모노레포 |
 
@@ -123,8 +123,8 @@ LinkedIn에 **데이터 분석과 AI 활용**을 주제로 글을 씁니다. 분
 |---|---|---|
 | **td-mcp** | ThinkingData MCP servers — npm 4-package monorepo (docs · taxonomy · analytics · healthcheck). Claude/Cursor/Windsurf와 연동되는 분석 컨설턴트 AI | Node.js · MCP |
 | **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 — Claude API로 법안 해석·DNA 분석·토론 모더레이터 | FastAPI · Expo · Supabase |
-| **thinkingai-portal** | ThinkingAI 사내 효율화 포털 — CSM Health Check · 이벤트 택소노미 생성기 · Skill Creator | Next.js · Node.js · pgvector |
-| **replymind** | B2B AI Customer Success Co-pilot — Reactive 응답 + Proactive 분석/액션 제안 | Turbo · Next.js · Prisma |
+| **thinkingai-portal** | ThinkingAI 사내 AI 플랫폼 — CSM 헬스 인텔리전스(1,500+ 고객사) + **replymind를 통합한 AE Agent**(모델·MCP·스킬·pgvector RAG·멀티에이전트) + 택소노미/대시보드 자동 생성 | Next.js · Express · pgvector · BullMQ |
+| **replymind** | B2B AI Customer Success Co-pilot — Reactive 응답 + Proactive 분석/액션 제안 (→ 포털 AE Agent로 포트이식·통합) | Turbo · Next.js · Prisma |
 | **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 — Big Five 6차원 + 12 아키타입 + 콘텐츠 생성 | Next.js · Expo · Prisma |
 | **cafe24-te-connector** | Cafe24 → ThinkingEngine 서버사이드 데이터 커넥터 — Webhook + Polling 멀티테넌트 / Redis·Kafka 큐 / LogBus2 / React Admin Console | FastAPI · React · Docker |
 | **guild** | 게임 네이티브 스킬 인텔리전스·내부 인재 매칭 — 활동 로그를 XP→숙련도→레벨로 환산 + Claude 구조화 출력 증거 인식 + PIPA 거버넌스 | FastAPI · React · Claude |
