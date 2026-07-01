@@ -131,6 +131,8 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 | **replymind** | B2B AI Customer Success Co-pilot — Reactive 응답 + Proactive 분석/액션 제안 | Turbo · Next.js · Prisma |
 | **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 — Big Five 6차원 + 12 아키타입 + 콘텐츠 생성 | Next.js · Expo · Prisma |
 | **cafe24-te-connector** | Cafe24 → ThinkingEngine 서버사이드 데이터 커넥터 — Webhook + Polling 멀티테넌트 / Redis·Kafka 큐 / LogBus2 / React Admin Console | FastAPI · React · Docker |
+| **guild** | 게임 네이티브 스킬 인텔리전스·내부 인재 매칭 — 활동 로그를 XP→숙련도→레벨로 환산 + Claude 구조화 출력 증거 인식 + PIPA 거버넌스 | FastAPI · React · Claude |
+| **code_mirror** | AI 코드 학습·내재화 플랫폼 — 코드 문제·분석·면접 대비를 게임화(포인트·배지·랭킹), Claude 기반 코드 분석 + GitHub OAuth | FastAPI · Next.js · Claude |
 
 > 코드 열람이 필요하면 [LinkedIn](https://www.linkedin.com/in/datacode91/)으로 메시지 주세요. 채용 담당자분께는 collaborator로 초대해 드립니다.
 
