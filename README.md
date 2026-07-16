@@ -16,25 +16,20 @@
 
 ---
 
-## 🌉 The Bridge for the 90%
+## 🧭 How I Work
 
-> *"AI Agent가 이렇게 핫한데, 실제로 직접 활용해서 가치를 만들어내는 사람은 5–10%일 뿐.<br/>
-> 나머지 90%가 AI의 가치를 느끼게 하려면 누군가 다리가 되어야 합니다."*
+데이터 분석가로 시작해 지금은 **AI Solution Engineer**로 일합니다. 제 일의 절반은 코드가 아니라 대화입니다 — 1,500개 넘는 고객사와 사내 여러 부서의 실무자를 직접 만나 문제를 정의하고, 코드를 먼저 짜는 대신 **AI에게 어떤 도구(MCP)·지식(RAG)·규칙(하네스)을 주면 이 문제가 풀리는지**부터 설계합니다.
 
-ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 분석가로 시작했고, 회사가 제 직무를 대체하는 AI 에이전트를 만든 순간 — 두려워하는 대신 **질문을 바꿨습니다.**
+그렇게 만든 것들 ↓
 
-> *"AI를 직접 쓰기 어려운 90%의 사용자가 AI의 가치를 느끼게 만드는 다리가 되면 어떨까?"*
-
-그 답을 찾는 과정에서 만든 것들 ↓
-
-| 분야 | 만든 것 | 효과 |
+| 분야 | 만든 것 | 결과 |
 |---|---|---|
-| 📋 **이벤트 택소노미 설계기** | 서비스 설명만으로 AI가 이벤트 구조 · 속성 · SDK 호환까지 설계 | 며칠 → 대화 몇 번 |
+| 📋 **이벤트 택소노미 설계 자동화** | 서비스 설명만으로 AI가 이벤트 구조 · 속성 · SDK 호환까지 설계 | 3~5일 → 대화 몇 번. **본사가 이 접근에서 아이디어를 얻어 정식 제품 [이벤트 트래킹 Agent](https://www.thinkingai.io/kr/agent/collection/)로 발전** |
+| 🔌 **MCP 서버 모노레포 20 패키지** | 문서검색 · 택소노미 · 분석 컨설팅(npm 공개 3종) + 게임 확률형 아이템 규제 감사 · LTV/이탈 예측 폐루프 · 한국 공공데이터 외부 신호 엔진 | "분석 컨설턴트 AI" — 사내 실사용 |
+| 💼 **CSM AI 포털** | 1,500+ 고객사 헬스 인텔리전스 + AI 에이전트 응대 통합 (pgvector RAG · 에이전트 팀 빌더 · 사람 검토 게이트) | 사내 프로덕션 운영 중 |
+| 🏷️ **GTM 에이전트화** | [GTM Template Gallery 공개 템플릿](https://github.com/wo123kr/te_gtm_template) × GTM API MCP 조합 | 클릭으로 하던 웹 태깅 세팅 → 대화 한 번 |
 | 📊 **데모 데이터 생성기** | 5단계 AI 분석 기반(세그먼트 · 퍼널 · 상관 · 리텐션 · 속성) 현실적 시뮬레이터 | 고객 시연 즉시 가능 |
 | 📚 **AI 가이드 포털** | 4개국어 지원 · 문서 기반 RAG 챗봇 · 학습 코스 | 24시간 셀프 서비스 |
-| 🔌 **MCP 서버 3개 / 18 도구** | td-docs · td-taxonomy · td-analytics → Claude · Cursor · Windsurf 연동 | 분석 컨설턴트 AI |
-
-> 결국, 분석가의 일은 사라지는 게 아니라 <b>"AI가 일하는 방식을 만드는 일"</b>로 진화한다고 믿습니다.
 
 ---
 
@@ -42,7 +37,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 
 | Area | Details |
 |---|---|
-| 🤖 **AI Solution Engineering** | Agentic 워크플로 설계 · MCP 서버 · Claude API · 프롬프트 엔지니어링 |
+| 🤖 **AI Solution Engineering** | Agentic 워크플로 설계 · MCP 서버 · Claude API · 하네스 엔지니어링(규칙 · 훅 · 스킬) |
 | 📊 **Data Analytics** | 1,500+ 고객사 데이터 파이프라인 경험 · 헬스 스코어링 · 대시보드 |
 | 🏷️ **Tracking Architecture** | GTM 커스텀 템플릿 · ThinkingAI/ThinkingData SDK · 이벤트 택소노미 |
 | 🛠️ **Full-cycle Builder** | 아이디어 → 프로토타입 → 배포 (FE · BE · Mobile · MCP) |
@@ -53,13 +48,13 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 
 | | Project | One-liner |
 |---|---|---|
+| 💼 | **thinkingai-portal** | CSM 헬스 인텔리전스 + AI 에이전트 플랫폼 — **사내 프로덕션 운영 중** (replymind 통합) |
+| 🔌 | **td-mcp** | ThinkingData MCP 서버 20-package 모노레포 (3종 npm 공개) — 계속 확장 중 |
+| 🧑‍💻 | **jegal-team** | "나"를 지식베이스화한 분신 에이전트 실험 — 페르소나 + 로컬 벡터 RAG + 실시간 MCP 근거 결합 |
 | 🏛 | **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 |
-| 💼 | **thinkingai-portal** | CSM 헬스 인텔리전스 + **replymind를 통합한 AI 에이전트 플랫폼** |
-| 💬 | **replymind** | B2B AI Customer Success Co-pilot (→ 포털 AE Agent로 통합 중) |
 | 🧬 | **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 |
-| 🔌 | **td-mcp** | ThinkingData MCP 서버 npm 4-package 모노레포 |
 
-> 위 5개는 모두 Private. 코드 열람이 필요하시면 [LinkedIn](https://www.linkedin.com/in/datacode91/)으로 연락 — collaborator 초대로 공유합니다.
+> 대부분 Private입니다. 코드 열람이 필요하시면 [LinkedIn](https://www.linkedin.com/in/datacode91/)으로 연락 — collaborator 초대로 공유합니다.
 
 ---
 
@@ -67,8 +62,9 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 
 | Project | What | Stack |
 |---|---|---|
-| ⭐ [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | All-in-One GTM custom template — SDK 초기화 + 모든 이벤트 추적 + 유저 관리를 하나의 템플릿으로 | GTM · Sandboxed JS |
+| ⭐ [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | All-in-One GTM custom template — SDK 초기화 + 모든 이벤트 추적 + 유저 관리를 하나의 템플릿으로. **GTM Template Gallery 공개** | GTM · Sandboxed JS |
 | 🔌 [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) | ThinkingEngine 웹 JS SDK의 jsDelivr CDN 미러 — TDAnalytics · TDCore · TDRemoteConfig · TDStrategy 4모듈 | GTM · jsDelivr |
+| 📦 **npm MCP 3종** | [td-docs-mcp](https://www.npmjs.com/package/td-docs-mcp) · [td-taxonomy-mcp](https://www.npmjs.com/package/td-taxonomy-mcp) · [td-analytics-mcp](https://www.npmjs.com/package/td-analytics-mcp) — Claude/Cursor/Windsurf 연동 | Node.js · MCP |
 | ⭐⭐ [**Vibe-Coding-Prompt**](https://github.com/wo123kr/Vibe-Coding-Prompt) | "SYNERGY" — Blueprint & Build 2단계 페르소나로 LLM을 AI 협업 개발자로 변신시키는 프롬프트 | LLM · Prompt Engineering |
 | 🌍 [**WorkSync**](https://github.com/wo123kr/WorkSync) | Trae 해커톤 — 시차 다른 글로벌 팀의 Golden Hour를 자동 감지하는 협업 도구 (4개국어) | Next.js 14 · Tailwind · Shadcn |
 
@@ -100,6 +96,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 **AI & Tracking**  
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
 
 **DevOps**  
@@ -111,7 +108,7 @@ ThinkingAI에서 **AI Solution Engineer**로 일하고 있습니다. 데이터 �
 
 ## 📖 Writing
 
-LinkedIn에 **데이터 분석과 AI 활용**을 주제로 글을 씁니다. 분석가로서 AI 시대를 지나며 겪은 직무 변화, 실무에서 만든 도구들, 그 안에서 사람이 하는 일에 대해 기록합니다.
+LinkedIn에 **데이터 분석과 AI 활용**을 주제로 글을 씁니다. 실무에서 만든 도구들과 그 안에서 사람이 하는 일에 대해 기록합니다.
 
 전문은 [LinkedIn](https://www.linkedin.com/in/datacode91/)에서 확인하실 수 있습니다.
 
@@ -121,13 +118,14 @@ LinkedIn에 **데이터 분석과 AI 활용**을 주제로 글을 씁니다. 분
 
 | Project | What it does | Stack |
 |---|---|---|
-| **td-mcp** | ThinkingData MCP servers — npm 4-package monorepo (docs · taxonomy · analytics · healthcheck). Claude/Cursor/Windsurf와 연동되는 분석 컨설턴트 AI | Node.js · MCP |
-| **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 — Claude API로 법안 해석·DNA 분석·토론 모더레이터 | FastAPI · Expo · Supabase |
-| **thinkingai-portal** | ThinkingAI 사내 AI 플랫폼 — CSM 헬스 인텔리전스(1,500+ 고객사) + **replymind를 통합한 AE Agent**(모델·MCP·스킬·pgvector RAG·멀티에이전트) + 택소노미/대시보드 자동 생성 | Next.js · Express · pgvector · BullMQ |
+| **td-mcp** | ThinkingData MCP servers — 20-package monorepo (docs · taxonomy · analytics 3종 npm 공개, healthcheck · 게임 규제 감사 · LTV/이탈 예측 · 공공데이터 외부 신호 엔진 등은 사내 전용). Claude/Cursor/Windsurf와 연동되는 분석 컨설턴트 AI | Node.js · MCP |
+| **thinkingai-portal** | ThinkingAI 사내 AI 플랫폼 — CSM 헬스 인텔리전스(1,500+ 고객사) + **replymind를 통합한 AE Agent**(모델·MCP·스킬·pgvector RAG·멀티에이전트) + 택소노미/대시보드 자동 생성. 사내 프로덕션 운영 중 | Next.js · Express · pgvector · BullMQ |
+| **jegal-team** | "나"를 지식베이스화한 분신 에이전트 — 직무 페르소나 + 로컬 벡터 RAG(sqlite-vec) + 실시간 MCP 근거 결합으로 문의 답변 초안 생성. TDD 149 테스트 | Python · Anthropic SDK · MCP |
 | **replymind** | B2B AI Customer Success Co-pilot — Reactive 응답 + Proactive 분석/액션 제안 (→ 포털 AE Agent로 포트이식·통합) | Turbo · Next.js · Prisma |
+| **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 — Claude API로 법안 해석·DNA 분석·토론 모더레이터 | FastAPI · Expo · Supabase |
 | **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 — Big Five 6차원 + 12 아키타입 + 콘텐츠 생성 | Next.js · Expo · Prisma |
 | **cafe24-te-connector** | Cafe24 → ThinkingEngine 서버사이드 데이터 커넥터 — Webhook + Polling 멀티테넌트 / Redis·Kafka 큐 / LogBus2 / React Admin Console | FastAPI · React · Docker |
-| **cafe24-sync** | Cafe24 → 임의 destination 범용 데이터 커넥터 — CloudEvents 1.0 표준화 후 Postgres·BigQuery·S3·Webhook·Kafka로 fan-out하는 Pluggable Sink 아키텍처 / 멀티테넌트 / 325+ 테스트 | FastAPI · React · Docker |
+| **cafe24-sync** | Cafe24 → 임의 destination 범용 데이터 커넥터 — CloudEvents 1.0 표준화 후 Postgres·BigQuery·S3·Webhook·Kafka로 fan-out하는 Pluggable Sink 아키텍처 / 멀티테넌트 / 380+ 테스트 | FastAPI · React · Docker |
 | **guild** | 게임 네이티브 스킬 인텔리전스·내부 인재 매칭 — 활동 로그를 XP→숙련도→레벨로 환산 + Claude 구조화 출력 증거 인식 + PIPA 거버넌스 | FastAPI · React · Claude |
 | **code_mirror** | AI 코드 학습·내재화 플랫폼 — 코드 문제·분석·면접 대비를 게임화(포인트·배지·랭킹), Claude 기반 코드 분석 + GitHub OAuth | FastAPI · Next.js · Claude |
 
