@@ -1,139 +1,55 @@
-<h1 align="center">Hi 👋 I'm Alpha (JINWOO JEGAL)</h1>
+<h1 align="center">Jinwoo Jegal · 제갈진우</h1>
 
 <p align="center">
-  <b>AI Solution Engineer</b> @ <a href="https://www.thinkingdata.kr/">ThinkingAI Korea</a> · <i>Ex-Senior Data Analyst</i><br/>
-  <sub><b>Bridging Data Architecture & Business Growth</b></sub>
+  <b>Data Product Engineer · AI Solution Engineer</b> @ ThinkingAI Korea<br/>
+  <sub>현업 문제를 데이터 프로덕트로 만들어 직접 운영합니다</sub>
 </p>
 
 <p align="center">
+  <a href="https://resume.158-247-203-171.sslip.io/"><img src="https://img.shields.io/badge/Resume-Web-111111?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/datacode91/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.thinkingdata.kr/"><img src="https://img.shields.io/badge/ThinkingAI-FF6B35?style=for-the-badge&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/한국어-Native-191970?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/中文-Fluent-DE2910?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/English-Conversational-1E88E5?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=wo123kr&style=for-the-badge&color=blue&label=Profile+views"/>
+  <a href="mailto:wo123kr@naver.com"><img src="https://img.shields.io/badge/Email-wo123kr@naver.com-EA4335?style=for-the-badge"/></a>
 </p>
 
 ---
 
-## 🧭 How I Work
+## About
 
-데이터 분석가로 시작해 지금은 **AI Solution Engineer**로 일합니다. 제 일의 절반은 코드가 아니라 대화입니다 — 1,500개 넘는 고객사와 사내 여러 부서의 실무자를 직접 만나 문제를 정의하고, 코드를 먼저 짜는 대신 **AI에게 어떤 도구(MCP)·지식(RAG)·규칙(하네스)을 주면 이 문제가 풀리는지**부터 설계합니다.
+데이터 직무 5년 3개월. 사내 첫 데이터 팀을 만들었고, BI 컨설팅을 거쳐 지금은 데이터 분석 솔루션 회사에서 게임·이커머스 고객사의 트래킹 설계와 분석, 사내 데이터 도구 개발을 함께 합니다.
 
-그렇게 만든 것들 ↓
+현업이 무엇을 결정하려는지 듣고, 그 결정에 쓸 숫자가 믿을 만한 상태로 매일 나오게 만드는 일을 합니다. 구현은 Claude Code 같은 AI 코딩 에이전트에게 맡기고, 설계와 검증 기준은 직접 관리합니다.
 
-| 분야 | 만든 것 | 결과 |
+## Selected Work
+
+> 회사 업무로 만든 것은 비공개 저장소라 코드 대신 문제와 결과를 적었습니다. 자세한 내용은 [웹 이력서](https://resume.158-247-203-171.sslip.io/)에 있습니다.
+
+| | 만든 것 | 결과 |
 |---|---|---|
-| 📋 **이벤트 택소노미 설계 자동화** | 서비스 설명만으로 AI가 이벤트 구조 · 속성 · SDK 호환까지 설계 | 3~5일 → 대화 몇 번. **본사가 이 접근에서 아이디어를 얻어 정식 제품 [이벤트 트래킹 Agent](https://www.thinkingai.io/kr/agent/collection/)로 발전** |
-| 🔌 **MCP 서버 모노레포 20 패키지** | 문서검색 · 택소노미 · 분석 컨설팅(npm 공개 3종) + 게임 확률형 아이템 규제 감사 · LTV/이탈 예측 폐루프 · 한국 공공데이터 외부 신호 엔진 | "분석 컨설턴트 AI" — 사내 실사용 |
-| 💼 **CSM AI 포털** | 1,500+ 고객사 헬스 인텔리전스 + AI 에이전트 응대 통합 (pgvector RAG · 에이전트 팀 빌더 · 사람 검토 게이트) | 사내 프로덕션 운영 중 |
-| 🏷️ **GTM 에이전트화** | [GTM Template Gallery 공개 템플릿](https://github.com/wo123kr/te_gtm_template) × GTM API MCP 조합 | 클릭으로 하던 웹 태깅 세팅 → 대화 한 번 |
-| 📊 **데모 데이터 생성기** | 5단계 AI 분석 기반(세그먼트 · 퍼널 · 상관 · 리텐션 · 속성) 현실적 시뮬레이터 | 고객 시연 즉시 가능 |
-| 📚 **AI 가이드 포털** | 4개국어 지원 · 문서 기반 RAG 챗봇 · 학습 코스 | 24시간 셀프 서비스 |
+| 🩺 | **고객 헬스 데이터 프로덕트** — 분석 솔루션·CRM·메신저 데이터를 매일 도는 지표·알림·AI 브리핑으로 | 자동 감지한 위험 신호의 **84%가 실제 대응**으로 이어짐, 소진 예측 30일 오차 중앙값 20% |
+| 🧾 | **커머스 주문·결제 데이터 파이프라인** — 웹훅 16종·리포트 API 24종 커넥터, 주문 단위 매출 귀속 | 쇼핑몰 원장과 **원 단위 일치**, 고객 정례 보고에 사용 |
+| 🔌 | **AI 에이전트용 MCP 도구 허브** — MCP 서버 27개 패키지, OAuth·도구별 권한, 사용량 모니터링 | 4주 **1,106회 호출·실패율 0.9%**, 확률 공시 감사 도구로 대형 게임사 계약 과정에 기여 |
+| 📊 | **콘텐츠 인기 요인 분석** (이전 회사) — 12개 영상 플랫폼, 채널 2,000여 개 | 부서별 대시보드 사용률 **10% → 80%+** |
 
----
-
-## ⚙️ What I Do
-
-| Area | Details |
-|---|---|
-| 🤖 **AI Solution Engineering** | Agentic 워크플로 설계 · MCP 서버 · Claude API · 하네스 엔지니어링(규칙 · 훅 · 스킬) |
-| 📊 **Data Analytics** | 1,500+ 고객사 데이터 파이프라인 경험 · 헬스 스코어링 · 대시보드 |
-| 🏷️ **Tracking Architecture** | GTM 커스텀 템플릿 · ThinkingAI/ThinkingData SDK · 이벤트 택소노미 |
-| 🛠️ **Full-cycle Builder** | 아이디어 → 프로토타입 → 배포 (FE · BE · Mobile · MCP) |
-
----
-
-## 🚧 What I'm Building Right Now
-
-| | Project | One-liner |
-|---|---|---|
-| 💼 | **thinkingai-portal** | CSM 헬스 인텔리전스 + AI 에이전트 플랫폼 — **사내 프로덕션 운영 중** (replymind 통합) |
-| 🔌 | **td-mcp** | ThinkingData MCP 서버 20-package 모노레포 (3종 npm 공개) — 계속 확장 중 |
-| 🧑‍💻 | **jegal-team** | "나"를 지식베이스화한 분신 에이전트 실험 — 페르소나 + 로컬 벡터 RAG + 실시간 MCP 근거 결합 |
-| 🏛 | **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 |
-| 🧬 | **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 |
-
-> 대부분 Private입니다. 코드 열람이 필요하시면 [LinkedIn](https://www.linkedin.com/in/datacode91/)으로 연락 — collaborator 초대로 공유합니다.
-
----
-
-## 🚀 Featured Public Projects
+## Public Projects
 
 | Project | What | Stack |
 |---|---|---|
-| ⭐ [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | All-in-One GTM custom template — SDK 초기화 + 모든 이벤트 추적 + 유저 관리를 하나의 템플릿으로. **GTM Template Gallery 공개** | GTM · Sandboxed JS |
-| 🔌 [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) | ThinkingEngine 웹 JS SDK의 jsDelivr CDN 미러 — TDAnalytics · TDCore · TDRemoteConfig · TDStrategy 4모듈 | GTM · jsDelivr |
-| 📦 **npm MCP 3종** | [td-docs-mcp](https://www.npmjs.com/package/td-docs-mcp) · [td-taxonomy-mcp](https://www.npmjs.com/package/td-taxonomy-mcp) · [td-analytics-mcp](https://www.npmjs.com/package/td-analytics-mcp) — Claude/Cursor/Windsurf 연동 | Node.js · MCP |
-| ⭐⭐ [**Vibe-Coding-Prompt**](https://github.com/wo123kr/Vibe-Coding-Prompt) | "SYNERGY" — Blueprint & Build 2단계 페르소나로 LLM을 AI 협업 개발자로 변신시키는 프롬프트 | LLM · Prompt Engineering |
-| 🌍 [**WorkSync**](https://github.com/wo123kr/WorkSync) | Trae 해커톤 — 시차 다른 글로벌 팀의 Golden Hour를 자동 감지하는 협업 도구 (4개국어) | Next.js 14 · Tailwind · Shadcn |
+| [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | ThinkingEngine SDK 초기화부터 이벤트 추적·유저 관리까지 하나로 묶은 GTM 커스텀 템플릿 (GTM Template Gallery 공개) | GTM · Sandboxed JS |
+| [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) · [**td-gtm-test-page**](https://github.com/wo123kr/td-gtm-test-page) | 위 템플릿용 SDK CDN 미러와 고객 배포 전 E2E 검증 페이지 | jsDelivr · GitHub Pages |
+| npm MCP 3종 | [td-docs-mcp](https://www.npmjs.com/package/td-docs-mcp) · [td-taxonomy-mcp](https://www.npmjs.com/package/td-taxonomy-mcp) · [td-analytics-mcp](https://www.npmjs.com/package/td-analytics-mcp) | Node.js · MCP |
+| [**thinking-onboarding**](https://github.com/wo123kr/thinking-onboarding) | ThinkingData SDK 연동 인터랙티브 온보딩 가이드 | React · GitHub Pages |
+| [**Vibe-Coding-Prompt**](https://github.com/wo123kr/Vibe-Coding-Prompt) | 설계 → 구현 2단계로 LLM과 협업 개발하는 프롬프트 | Prompt Engineering |
+| [**WorkSync**](https://github.com/wo123kr/WorkSync) | Trae 해커톤 — 시차가 다른 팀의 회의 가능 시간을 찾아 주는 도구 | Next.js · Tailwind |
 
----
+## Stack
 
-## 🛠️ Tech Stack
+**Data** SQL (Trino, PostgreSQL, BigQuery) · Python (FastAPI, pandas) · Kafka · Redis
+**Product** TypeScript (Next.js, Fastify) · Docker · Nginx
+**AI** LLM Agent · MCP · Claude API · pgvector
+**Analytics** Tableau · Power BI · GA4 · GTM
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+## Also
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Backend & Data**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**AI & Tracking**  
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
-
-**DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-
----
-
-## 📖 Writing
-
-LinkedIn에 **데이터 분석과 AI 활용**을 주제로 글을 씁니다. 실무에서 만든 도구들과 그 안에서 사람이 하는 일에 대해 기록합니다.
-
-전문은 [LinkedIn](https://www.linkedin.com/in/datacode91/)에서 확인하실 수 있습니다.
-
----
-
-## 🔒 Private Portfolio
-
-| Project | What it does | Stack |
-|---|---|---|
-| **td-mcp** | ThinkingData MCP servers — 20-package monorepo (docs · taxonomy · analytics 3종 npm 공개, healthcheck · 게임 규제 감사 · LTV/이탈 예측 · 공공데이터 외부 신호 엔진 등은 사내 전용). Claude/Cursor/Windsurf와 연동되는 분석 컨설턴트 AI | Node.js · MCP |
-| **thinkingai-portal** | ThinkingAI 사내 AI 플랫폼 — CSM 헬스 인텔리전스(1,500+ 고객사) + **replymind를 통합한 AE Agent**(모델·MCP·스킬·pgvector RAG·멀티에이전트) + 택소노미/대시보드 자동 생성. 사내 프로덕션 운영 중 | Next.js · Express · pgvector · BullMQ |
-| **jegal-team** | "나"를 지식베이스화한 분신 에이전트 — 직무 페르소나 + 로컬 벡터 RAG(sqlite-vec) + 실시간 MCP 근거 결합으로 문의 답변 초안 생성. TDD 149 테스트 | Python · Anthropic SDK · MCP |
-| **replymind** | B2B AI Customer Success Co-pilot — Reactive 응답 + Proactive 분석/액션 제안 (→ 포털 AE Agent로 포트이식·통합) | Turbo · Next.js · Prisma |
-| **politics-now** | 법안 중심 국회의원 분석 + AI 맞춤 추천 모바일 앱 — Claude API로 법안 해석·DNA 분석·토론 모더레이터 | FastAPI · Expo · Supabase |
-| **persona-ai** | AI 대화로 발견하는 자기 이해 플랫폼 — Big Five 6차원 + 12 아키타입 + 콘텐츠 생성 | Next.js · Expo · Prisma |
-| **cafe24-te-connector** | Cafe24 → ThinkingEngine 서버사이드 데이터 커넥터 — Webhook + Polling 멀티테넌트 / Redis·Kafka 큐 / LogBus2 / React Admin Console | FastAPI · React · Docker |
-| **cafe24-sync** | Cafe24 → 임의 destination 범용 데이터 커넥터 — CloudEvents 1.0 표준화 후 Postgres·BigQuery·S3·Webhook·Kafka로 fan-out하는 Pluggable Sink 아키텍처 / 멀티테넌트 / 380+ 테스트 | FastAPI · React · Docker |
-| **guild** | 게임 네이티브 스킬 인텔리전스·내부 인재 매칭 — 활동 로그를 XP→숙련도→레벨로 환산 + Claude 구조화 출력 증거 인식 + PIPA 거버넌스 | FastAPI · React · Claude |
-| **code_mirror** | AI 코드 학습·내재화 플랫폼 — 코드 문제·분석·면접 대비를 게임화(포인트·배지·랭킹), Claude 기반 코드 분석 + GitHub OAuth | FastAPI · Next.js · Claude |
-
-> 코드 열람이 필요하면 [LinkedIn](https://www.linkedin.com/in/datacode91/)으로 메시지 주세요. 채용 담당자분께는 collaborator로 초대해 드립니다.
-
----
-
-<p align="center">
-  <i>"분석만 하지 않고, 필요하면 직접 만듭니다."</i><br/>
-  <sub>· Analyze · Build · Bridge ·</sub>
-</p>
+- 번역서 『게임 데이터 애널리스트가 알려주는 게임 데이터 분석의 노하우』(2024), 『실무자의 게임 데이터 성장 비법』(2025), AK IT
+- 2023 서울시 빅데이터 캠퍼스 공모전 대상
+- 한국어 · 중국어(상급) · 영어(업무 의사소통)
