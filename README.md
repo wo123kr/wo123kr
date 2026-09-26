@@ -1,12 +1,11 @@
 <h1 align="center">Jinwoo Jegal · 제갈진우</h1>
 
 <p align="center">
-  <b>Data Product Engineer · AI Solution Engineer</b> @ ThinkingAI Korea<br/>
+  <b>AI Solution Engineer</b> @ ThinkingAI Korea<br/>
   <sub>현업 문제를 데이터 프로덕트로 만들어 직접 운영합니다</sub>
 </p>
 
 <p align="center">
-  <a href="https://resume.158-247-203-171.sslip.io/"><img src="https://img.shields.io/badge/Resume-Web-111111?style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/datacode91/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:wo123kr@naver.com"><img src="https://img.shields.io/badge/Email-wo123kr@naver.com-EA4335?style=for-the-badge"/></a>
 </p>
@@ -21,7 +20,7 @@
 
 ## Selected Work
 
-> 회사 업무로 만든 것은 비공개 저장소라 코드 대신 문제와 결과를 적었습니다. 자세한 내용은 [웹 이력서](https://resume.158-247-203-171.sslip.io/)에 있습니다.
+> 회사 업무로 만든 것은 비공개 저장소라 코드 대신 문제와 결과를 적었습니다.
 
 | | 만든 것 | 결과 |
 |---|---|---|
