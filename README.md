@@ -16,7 +16,7 @@
 
 #### 공개 저장소
 
-| | |
+| 저장소 | 내용 |
 |---|---|
 | [**te_gtm_template**](https://github.com/wo123kr/te_gtm_template) | ThinkingEngine SDK 를 GTM 에서 바로 쓰는 커스텀 템플릿 (Template Gallery 등록) |
 | [**td-gtm-sdk**](https://github.com/wo123kr/td-gtm-sdk) · [**td-gtm-test-page**](https://github.com/wo123kr/td-gtm-test-page) | 위 템플릿용 SDK CDN 미러, 배포 전 E2E 확인 페이지 |
